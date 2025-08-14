@@ -5,9 +5,9 @@ This repository contains all 4 tasks completed for the Oasis Infobyte Security A
 ## Completed Tasks:
 
 
-2. [Basic Firewall Configuration with UFW](https://github.com/evilnishant994/Oasis-Infobyte-Cybersecurity-Internship-Task-List/tree/main/Task%202)
-4. [Report: Common Network Security Threats](https://github.com/evilnishant994/Oasis-Infobyte-Cybersecurity-Internship-Task-List/tree/main/Task%204)
-5. [Report: Social Engineering Attacks](https://github.com/evilnishant994/Oasis-Infobyte-Cybersecurity-Internship-Task-List/tree/main/Task%205)
-6. [Report: Patch Management](https://github.com/evilnishant994/Oasis-Infobyte-Cybersecurity-Internship-Task-List/tree/main/Task%206)
+2. [Basic Firewall Configuration with UFW](https://github.com/beasthunter100/cyber-task/tree/da99a392f4a1080c9179924e25c68331bd3c6da6/Task%202)
+4. [Report: Common Network Security Threats](https://github.com/beasthunter100/cyber-task/tree/da99a392f4a1080c9179924e25c68331bd3c6da6/Task%204)
+5. [Report: Social Engineering Attacks](https://github.com/beasthunter100/cyber-task/tree/da99a392f4a1080c9179924e25c68331bd3c6da6/Task%205)
+6. [Report: Patch Management](https://github.com/beasthunter100/cyber-task/tree/da99a392f4a1080c9179924e25c68331bd3c6da6/Task%206)
 
 
