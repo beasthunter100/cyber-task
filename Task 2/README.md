@@ -19,4 +19,4 @@ The goal is to set up a basic firewall using UFW (Uncomplicated Firewall) on a L
 ---
    
 ## 🎬 Demo Video
-
+https://github.com/beasthunter100/cyber-task/blob/5ae4cae980762a11855a800d57a03dcaca759048/Task%202/demo.mp4
